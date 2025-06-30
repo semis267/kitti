@@ -80,7 +80,7 @@ border-top: 3px solid peru;
 .gallery article img,
 .gallery .more img {
     text-align: center;
-    width: 100%;
+    width: 30%;
     height: auto;
     max-height: 300px; 
     object-fit: cover;
