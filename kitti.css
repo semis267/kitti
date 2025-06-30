@@ -80,13 +80,7 @@ border-top: 3px solid peru;
   width: 100px;
   height: 100px;
 }
-.gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 25px;
-    text-align: center;
-}
+
 .gallery article img,
 .gallery .more img {
     text-align: center;
