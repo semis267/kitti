@@ -70,6 +70,16 @@ border-top: 3px solid peru;
 }
 
 /*Галерея*/
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box div {
+  width: 100px;
+  height: 100px;
+}
 .gallery {
     display: flex;
     flex-wrap: wrap;
