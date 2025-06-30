@@ -77,7 +77,8 @@ border-top: 3px solid peru;
     gap: 25px;
     text-align: center;
 }
-.gallery article img {
+.gallery article img,
+.gallery .more img {
     text-align: center;
     width: 100%;
     height: auto;
